@@ -48,4 +48,4 @@ This application is a very simplified version of the taxi service.
     private static final String USERNAME = "root";
     private static final String PASSWORD = "123456";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-```
+
