@@ -11,7 +11,6 @@ This application is a very simplified version of the taxi service.
 - DB - вatabase based on MySQL server
 
 ## 📝 Features
-- log in / log out forms
 - authentication filter
 - registration a new driver
 - create, update, delete manufacturers, cars
@@ -48,4 +47,6 @@ This application is a very simplified version of the taxi service.
     private static final String USERNAME = "root";
     private static final String PASSWORD = "123456";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
+```
 
+## 🏄🏿‍♀️ <a href="https://glacial-tor-01660.herokuapp.com/">**The link of this project on Heroku**</a>
