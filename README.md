@@ -49,3 +49,5 @@ This application is a very simplified version of the taxi service.
     private static final String PASSWORD = "123456";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 ```
+
+## 🏄🏿‍♀️ <a href="https://glacial-tor-01660.herokuapp.com/">**The link of this project on Heroku**</a>
