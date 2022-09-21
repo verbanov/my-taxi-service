@@ -11,6 +11,7 @@ This application is a very simplified version of the taxi service.
 - DB - вatabase based on MySQL server.
 - DB diagram:
 
+
 ![car_diagram_db_2_4f509421031](https://user-images.githubusercontent.com/106665475/191584038-e6504856-58fc-4d6b-89e7-5d2c486f35d4.png)
 
 - UML diagram:
@@ -59,3 +60,4 @@ This application is a very simplified version of the taxi service.
 ```
 
 ## 🚀 <a href="https://glacial-tor-01660.herokuapp.com/">**The link of this project on Heroku**</a>
+=======
